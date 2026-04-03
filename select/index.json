@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "バツ猫 (Cover)",
+  "base_artist": "dongdang",
+  "createdAt": "2026-04-03T10:40:58.569481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バツ猫",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/01_バツ猫_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バツ猫",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/02_バツ猫_きくお.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バツ猫 / XxX Cat",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/03_バツ猫___XxX_Cat_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バツ猫 / XxX Cat",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/04_バツ猫___XxX_Cat_きくお.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バツ猫 - XxX Cat",
+      "artist": "KIKUO • Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_バツ猫_-_XxX_Cat_KIKUO_•_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kikuo - バツ猫",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/06_Kikuo_-_バツ猫_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バツ猫 - XxX Cat",
+      "artist": "Hatsune Miku, y, Kikuo",
+      "has_synced": true,
+      "path": "select/07_バツ猫_-_XxX_Cat_Hatsune_Miku,_y,_Kikuo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バツ猫 (Cover)",
+      "artist": "dongdang",
+      "has_synced": false,
+      "path": "select/pl_01_バツ猫_(Cover)_dongdang.txt"
+    }
+  ]
+}
